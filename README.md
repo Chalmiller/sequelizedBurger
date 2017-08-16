@@ -1,2 +1,2 @@
-# sequelizedBurger
-An app that utilizes the functionality of Sequelize
+# burger
+An app utilizing express-handlebars and mysql
